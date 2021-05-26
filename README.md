@@ -7,3 +7,4 @@ with regression and classification.
 3. Exploratory Data Analysis of Play Store Games.
 4. Classifying the type of Star.
 5. Exploratory data analysis of covid-19 on students.
+6. Data Visualization of Covid-19 In India from 2020-01-30 to 2021-05-19
